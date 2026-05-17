@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem C:\\\\Users\\\\giuliana.castano\\\\nexora-psiapp -Recurse -Name)",
+      "Bash(Select-Object -First 80)",
+      "PowerShell(npm run *)",
+      "Bash(npm install *)",
+      "Bash(npx tsc *)"
+    ]
+  }
+}
